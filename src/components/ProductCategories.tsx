@@ -4,25 +4,25 @@ const ProductCategories = () => {
     {
       id: 1,
       name: "iPhones",
-      description: "Latest models with cutting-edge features",
+      description: "Modelos mais recentes com recursos de última geração",
       image: "https://images.unsplash.com/photo-1580910051074-3eb694886505?q=80&w=1530&auto=format",
     },
     {
       id: 2,
       name: "MacBooks",
-      description: "Powerful laptops for work and creativity",
+      description: "Laptops poderosos para trabalho e criatividade",
       image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1626&auto=format",
     },
     {
       id: 3,
       name: "iPads",
-      description: "Versatile tablets for every need",
+      description: "Tablets versáteis para todas as necessidades",
       image: "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?q=80&w=1469&auto=format",
     },
     {
       id: 4,
-      name: "Accessories",
-      description: "Essential add-ons for your Apple devices",
+      name: "Acessórios",
+      description: "Complementos essenciais para seus dispositivos Apple",
       image: "https://images.unsplash.com/photo-1600186279566-c778832f6242?q=80&w=1470&auto=format",
     },
   ];
@@ -30,7 +30,7 @@ const ProductCategories = () => {
   return (
     <section id="products" className="py-20 bg-apple-lightgray">
       <div className="container-custom">
-        <h2 className="section-title text-center mb-12">Our Product Range</h2>
+        <h2 className="section-title text-center mb-12">Nossa Gama de Produtos</h2>
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {categories.map((category) => (
@@ -52,7 +52,7 @@ const ProductCategories = () => {
                   href="#contact" 
                   className="text-apple-orange font-semibold flex items-center"
                 >
-                  Learn more
+                  Saiba mais
                   <svg 
                     xmlns="http://www.w3.org/2000/svg" 
                     className="h-5 w-5 ml-1" 
@@ -73,7 +73,7 @@ const ProductCategories = () => {
         
         <div className="mt-16 text-center">
           <a href="#contact" className="btn-primary">
-            Ask About Current Inventory
+            Pergunte Sobre Estoque Atual
           </a>
         </div>
       </div>

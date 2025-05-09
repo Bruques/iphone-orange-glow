@@ -16,17 +16,17 @@ const Hero = () => {
       <div className="container-custom grid md:grid-cols-2 gap-8 items-center">
         <div className="text-white space-y-6 animate-fade-in">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-            Discover the Latest <span className="text-apple-orange">iPhone</span> Experience
+            Encontre o <span className="text-apple-orange">iPhone</span> dos seus sonhos aqui!
           </h1>
           <p className="text-lg md:text-xl text-gray-300 max-w-lg">
-            Premium Apple products with expert service and competitive pricing at your local tech destination.
+            Produtos Apple premium com serviço especializado e preços competitivos, entregues com segurança e rapidez diretamente em sua casa.
           </p>
           <div className="flex flex-wrap gap-4">
             <a href="#products" className="btn-primary">
-              Explore Products
+              Explorar Produtos
             </a>
             <a href="#contact" className="btn-outline">
-              Contact Us
+              Fale Conosco
             </a>
           </div>
         </div>
@@ -45,7 +45,7 @@ const Hero = () => {
       
       <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-pulse-subtle">
         <a href="#products" className="text-white flex flex-col items-center">
-          <span className="text-sm mb-2">Scroll to discover</span>
+          <span className="text-sm mb-2">Rolar para descobrir</span>
           <ArrowDown className="h-5 w-5" />
         </a>
       </div>

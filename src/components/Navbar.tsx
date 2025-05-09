@@ -42,31 +42,31 @@ const Navbar = () => {
             href="#home"
             className="text-white hover:text-apple-orange transition-colors"
           >
-            Home
+            Início
           </a>
           <a
             href="#products"
             className="text-white hover:text-apple-orange transition-colors"
           >
-            Products
+            Produtos
           </a>
           <a
             href="#about"
             className="text-white hover:text-apple-orange transition-colors"
           >
-            About Us
+            Sobre Nós
           </a>
           <a
             href="#location"
             className="text-white hover:text-apple-orange transition-colors"
           >
-            Location
+            Localização
           </a>
           <a
             href="#contact"
             className="btn-primary"
           >
-            Contact Us
+            Contato
           </a>
         </nav>
 
@@ -93,35 +93,35 @@ const Navbar = () => {
               className="text-white hover:text-apple-orange transition-colors px-4 py-2"
               onClick={toggleMenu}
             >
-              Home
+              Início
             </a>
             <a
               href="#products"
               className="text-white hover:text-apple-orange transition-colors px-4 py-2"
               onClick={toggleMenu}
             >
-              Products
+              Produtos
             </a>
             <a
               href="#about"
               className="text-white hover:text-apple-orange transition-colors px-4 py-2"
               onClick={toggleMenu}
             >
-              About Us
+              Sobre Nós
             </a>
             <a
               href="#location"
               className="text-white hover:text-apple-orange transition-colors px-4 py-2"
               onClick={toggleMenu}
             >
-              Location
+              Localização
             </a>
             <a
               href="#contact"
               className="text-apple-orange font-medium px-4 py-2"
               onClick={toggleMenu}
             >
-              Contact Us
+              Contato
             </a>
           </nav>
         </div>

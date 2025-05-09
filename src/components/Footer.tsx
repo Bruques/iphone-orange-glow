@@ -11,34 +11,34 @@ const Footer = () => {
               Global<span className="text-apple-orange">Tech</span>
             </a>
             <p className="mt-2 text-gray-400 text-sm">
-              Your local premium Apple products store
+              Sua loja local de produtos Apple premium
             </p>
           </div>
           
           <nav className="flex gap-6 flex-wrap justify-center">
             <a href="#home" className="text-gray-400 hover:text-white transition-colors">
-              Home
+              Início
             </a>
             <a href="#products" className="text-gray-400 hover:text-white transition-colors">
-              Products
+              Produtos
             </a>
             <a href="#about" className="text-gray-400 hover:text-white transition-colors">
-              About Us
+              Sobre Nós
             </a>
             <a href="#location" className="text-gray-400 hover:text-white transition-colors">
-              Location
+              Localização
             </a>
             <a href="#contact" className="text-gray-400 hover:text-white transition-colors">
-              Contact
+              Contato
             </a>
           </nav>
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; {currentYear} GlobalTech. All rights reserved.</p>
+          <p>&copy; {currentYear} GlobalTech. Todos os direitos reservados.</p>
           <p className="text-xs mt-2">
-            Apple, iPhone, MacBook, iPad are trademarks of Apple Inc., registered in the U.S. and other countries. 
-            GlobalTech is an independent retailer and not affiliated with Apple Inc.
+            Apple, iPhone, MacBook, iPad são marcas registradas da Apple Inc., registradas nos EUA e em outros países. 
+            GlobalTech é uma revendedora independente e não é afiliada à Apple Inc.
           </p>
         </div>
       </div>
