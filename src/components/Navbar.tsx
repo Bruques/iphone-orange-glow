@@ -33,7 +33,7 @@ const Navbar = () => {
     >
       <div className="container-custom flex justify-between items-center">
         <a href="#" className="text-white font-bold text-xl lg:text-2xl">
-          Apple<span className="text-apple-orange">Edge</span>
+          Global<span className="text-apple-orange">Tech</span>
         </a>
 
         {/* Desktop Navigation */}

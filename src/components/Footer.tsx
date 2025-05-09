@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div>
             <a href="#" className="font-bold text-xl">
-              Apple<span className="text-apple-orange">Edge</span>
+              Global<span className="text-apple-orange">Tech</span>
             </a>
             <p className="mt-2 text-gray-400 text-sm">
               Your local premium Apple products store
@@ -35,10 +35,10 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; {currentYear} AppleEdge. All rights reserved.</p>
+          <p>&copy; {currentYear} GlobalTech. All rights reserved.</p>
           <p className="text-xs mt-2">
             Apple, iPhone, MacBook, iPad are trademarks of Apple Inc., registered in the U.S. and other countries. 
-            AppleEdge is an independent retailer and not affiliated with Apple Inc.
+            GlobalTech is an independent retailer and not affiliated with Apple Inc.
           </p>
         </div>
       </div>
