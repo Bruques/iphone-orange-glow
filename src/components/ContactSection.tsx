@@ -1,5 +1,5 @@
 
-import { WhatsApp } from "lucide-react";
+import { MessageSquare } from "lucide-react";
 
 const ContactSection = () => {
   return (
@@ -20,7 +20,7 @@ const ContactSection = () => {
             rel="noopener noreferrer"
             className="bg-white text-apple-orange flex items-center gap-3 px-8 py-4 rounded-full font-bold text-lg shadow-lg hover:shadow-xl transition-shadow"
           >
-            <WhatsApp size={24} />
+            <MessageSquare size={24} />
             Contact via WhatsApp
           </a>
         </div>
