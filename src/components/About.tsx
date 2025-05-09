@@ -56,7 +56,7 @@ const About = () => {
             <div>
               <h3 className="text-2xl font-bold mb-4">Seu Especialista Apple Local</h3>
               <p className="text-gray-400 mb-6">
-                Desde 2010, a GlobalTech tem sido o principal destino para produtos Apple na região.
+                Desde xxxx, a GlobalTech tem sido o principal destino para produtos Apple na região.
                 Orgulhamo-nos de oferecer um serviço excepcional ao cliente e conhecimento especializado
                 em todos os dispositivos Apple.
               </p>
@@ -66,7 +66,7 @@ const About = () => {
                 o ecossistema Apple pela primeira vez, estamos aqui para ajudar.
               </p>
               <div className="flex space-x-4">
-                <div className="text-4xl font-bold text-apple-orange">12+</div>
+                <div className="text-4xl font-bold text-apple-orange">XX+</div>
                 <div>
                   <div className="font-semibold">Anos de Experiência</div>
                   <div className="text-sm text-gray-400">Servindo nossa comunidade</div>

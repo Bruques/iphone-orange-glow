@@ -53,7 +53,7 @@ const LocationMap = () => {
             <iframe 
               title="Localização da Loja"
               className="w-full h-full border-0"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387193.305935303!2d-74.25986548248684!3d40.69714941932609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2s!4v1596292121348!5m2!1sen!2s"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14614.14777272681!2d-46.1482009!3d-22.4710507!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c88ee0f2e6f351%3A0x30e9c6c2ff4e66d3!2sBom%20Repouso%2C%20MG%2C%2037600-000!5e0!3m2!1spt-BR!2sbr!4v1715200582945!5m2!1spt-BR!2sbr"
               loading="lazy"
             ></iframe>
           </div>

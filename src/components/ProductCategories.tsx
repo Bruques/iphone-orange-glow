@@ -23,7 +23,7 @@ const ProductCategories = () => {
       id: 4,
       name: "Acessórios",
       description: "Complementos essenciais para seus dispositivos Apple",
-      image: "https://images.unsplash.com/photo-1600186279566-c778832f6242?q=80&w=1470&auto=format",
+      image: "https://images.unsplash.com/photo-1566793474285-2decf0fc182a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
   ];
 
